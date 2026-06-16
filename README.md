@@ -83,6 +83,4 @@ titanic-survival-prediction_elitetask2/
 └── README.md
 ```
 
-## 📄 License
 
-This project is developed for educational and internship purposes.
