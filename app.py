@@ -206,16 +206,3 @@ with st.expander("ℹ️ Titanic Facts"):
     🎫 Passenger class significantly affected survival.
     """)
 
-# ---------------- FOOTER ----------------
-st.markdown("---")
-
-st.markdown(
-    """
-    <div class='footer'>
-        🚢 <b>Titanic Survival Prediction</b><br>
-        Developed by <b>Mahi Jain</b><br>
-        Machine Learning Internship Project
-    </div>
-    """,
-    unsafe_allow_html=True
-)
